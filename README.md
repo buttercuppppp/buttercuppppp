@@ -9,4 +9,4 @@ pfp by toasted.sushi on instagram!
 ![a image of an anime girl](https://external-media.spacehey.net/media/shiUNMEpYSnsPliyBXih7zacm6bbhXJb8wHNngkdgd08=/https://hamood.carrd.co/assets/images/gallery07/d3b61255.png?v34093983873751)
 
 ![a gif of a rainbow cat](https://i.pinimg.com/originals/17/6b/7a/176b7a3728241e60f63576f4b60505f1.gif)
-![a text saying wellcome to my page!!!]https://media.discordapp.net/attachments/1295186017266958410/1316230002789978162/El_texto_del_parrafo.png?ex=675a4a37&is=6758f8b7&hm=bfeb982da363bff82d1b570a24caa1a503d8990d4271fdf3421b152a7693d950&=&format=webp&quality=lossless
+![a text saying wellcome to my page!!!](https://media.discordapp.net/attachments/1295186017266958410/1316230460551987200/El_texto_del_parrafo_2.png?ex=675a4aa4&is=6758f924&hm=829e56fb16b424a88f87e3c0a614e12b14c41540cebffe37dd66878be3cf88bf&=&format=webp&quality=lossless)
