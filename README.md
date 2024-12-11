@@ -13,4 +13,4 @@ pfp by [toasted.sushi](https://www.instagram.com/toasted.sushi/) on instagram!
 
 ![a gif of a rainbow cat](https://i.pinimg.com/originals/17/6b/7a/176b7a3728241e60f63576f4b60505f1.gif)   
 
-![a text saying welcome to my page](https://media.discordapp.net/attachments/1295186017266958410/1316257922413494323/welcome_to_my_page.png?ex=675a6437&is=675912b7&hm=c59406a900e789e19a4d03c5097e6bd08185c953db1c3ba31d66891646be3a87&=&format=webp&quality=lossless)
+![a text saying welcome to my page](https://media.discordapp.net/attachments/1295186017266958410/1316259427300675634/Welcome_to_my_page.png?ex=675a659e&is=6759141e&hm=8a52ce63a83385459f0c66db201ee28335b58d3b3c64272622b97df4fe63390e&=&format=webp&quality=lossless)
