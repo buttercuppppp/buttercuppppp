@@ -1,4 +1,4 @@
-pfp by [toasted.sushi](https://www.instagram.com/toasted.sushi/) on instagram! 
+pfp by toasted.sushi on instagram! 
 
 ---
 
