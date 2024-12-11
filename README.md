@@ -8,5 +8,4 @@ pfp by toasted.sushi on instagram!
 ![a image of hatsune miku](https://external-media.spacehey.net/media/sctC-UJ7eEvRUBKf4CvKr6TLAObdsOQ5UN1Zpi7Oh_HE=/https://raining-starss.neocities.org/hoot%20(8).png)
 ![a image of an anime girl](https://external-media.spacehey.net/media/shiUNMEpYSnsPliyBXih7zacm6bbhXJb8wHNngkdgd08=/https://hamood.carrd.co/assets/images/gallery07/d3b61255.png?v34093983873751)
 
-![a gif of a rainbow cat](https://i.pinimg.com/originals/17/6b/7a/176b7a3728241e60f63576f4b60505f1.gif)
-![a text saying wellcome to my page!!!](https://media.discordapp.net/attachments/1295186017266958410/1316231365405970492/El_texto_del_parrafo_3.png?ex=675a4b7b&is=6758f9fb&hm=74be124ca8b4c1a26a13fb2014167190a40892a672a331a3620f811fe138c8b9&=&format=webp&quality=lossless)
+![a gif of a rainbow cat](https://i.pinimg.com/originals/17/6b/7a/176b7a3728241e60f63576f4b60505f1.gif) ![a text saying wellcome to my page!!!](https://media.discordapp.net/attachments/1295186017266958410/1316231365405970492/El_texto_del_parrafo_3.png?ex=675a4b7b&is=6758f9fb&hm=74be124ca8b4c1a26a13fb2014167190a40892a672a331a3620f811fe138c8b9&=&format=webp&quality=lossless)
