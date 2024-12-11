@@ -13,4 +13,3 @@ pfp by toasted.sushi on instagram!
 
 ![a gif of a rainbow cat](https://i.pinimg.com/originals/17/6b/7a/176b7a3728241e60f63576f4b60505f1.gif)   
 
-![a text saying welcome to my page](https://media.discordapp.net/attachments/1295186017266958410/1316291461460922369/Welcome_to_my_page_1.png?ex=675a8373&is=675931f3&hm=b50ef29693c072a789c5ce6b85da794061a4bc65f3784cb640317956045e92bf&=&format=webp&quality=lossless)
