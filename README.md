@@ -11,4 +11,8 @@ pfp by [toasted.sushi](https://www.instagram.com/toasted.sushi/) on instagram!
 
 ![a gif of a rainbow cat](https://i.pinimg.com/originals/17/6b/7a/176b7a3728241e60f63576f4b60505f1.gif) 
 
-![a text saying wellcome to my page!!!](https://media.discordapp.net/attachments/1295186017266958410/1316230002789978162/El_texto_del_parrafo.png?ex=675a4a37&is=6758f8b7&hm=bfeb982da363bff82d1b570a24caa1a503d8990d4271fdf3421b152a7693d950&=&format=webp&quality=lossless)
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://media.discordapp.net/attachments/1295186017266958410/1316243633044717608/El_texto_del_parrafo_4.png?ex=675a56e8&is=67590568&hm=a12d88585b842c9184d15b398276cbcc8bfb5c83ccb4e5155c592ca5a8b1b574&=&format=webp&quality=lossless">
+ <source media="(prefers-color-scheme: light)" srcset="https://media.discordapp.net/attachments/1295186017266958410/1316220705037226044/El_texto_del_parrafo_1.png?ex=675a418e&is=6758f00e&hm=6ee246cead0908bdfac31f943238f749f66b7d325a1016bd826cc15ca034e25a&=&format=webp&quality=lossless">
+ <img alt="a text saying welccome to my page" src="https://media.discordapp.net/attachments/1295186017266958410/1316220705037226044/El_texto_del_parrafo_1.png?ex=675a418e&is=6758f00e&hm=6ee246cead0908bdfac31f943238f749f66b7d325a1016bd826cc15ca034e25a&=&format=webp&quality=lossless">
+</picture>
