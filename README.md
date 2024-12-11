@@ -1,5 +1,7 @@
 pfp by [toasted.sushi](https://www.instagram.com/toasted.sushi/) on instagram! 
 
+---
+
 ![a gif of a kaomoji](https://external-media.spacehey.net/media/so-hMAPJC6oakMjOE5z3G-gUyrH-732atEWCcmyQiI4M=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/888e5b5d-b3f5-4252-ae12-7676f7a1d7bc/d1od0yj-472cbad7-2ea1-422b-bbc5-5b827e384248.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg4OGU1YjVkLWIzZjUtNDI1Mi1hZTEyLTc2NzZmN2ExZDdiY1wvZDFvZDB5ai00NzJjYmFkNy0yZWExLTQyMmItYmJjNS01YjgyN2UzODQyNDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.YtrwjAfbEOMJSCoIyeQ8oPiA3id9-f1ZjJMEshTp0BI)
 ![a image of windows 7](https://external-media.spacehey.net/media/sH2vmjVruWHi4GIKZHEMGdwl3jecw-FlRFzqMKremS2M=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/28fb1909-cb86-4358-8ace-2ffee1c86b60/d29nol9-0021170a-670f-4b93-a05d-04af59c85486.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI4ZmIxOTA5LWNiODYtNDM1OC04YWNlLTJmZmVlMWM4NmI2MFwvZDI5bm9sOS0wMDIxMTcwYS02NzBmLTRiOTMtYTA1ZC0wNGFmNTljODU0ODYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kLZmugziKtUwM-kFi2_Ir0A3XcM2sWcF1tkBG3ygNDU)
 ![a image of rei ayanami](https://external-media.spacehey.net/media/sFA330ncpEKCmSx1wCigCyj45qpcsg9OgBpXv2ta6zB8=/https://raining-starss.neocities.org/boot%20(5).gif)
@@ -9,10 +11,6 @@ pfp by [toasted.sushi](https://www.instagram.com/toasted.sushi/) on instagram!
 ![a image of hatsune miku](https://external-media.spacehey.net/media/sctC-UJ7eEvRUBKf4CvKr6TLAObdsOQ5UN1Zpi7Oh_HE=/https://raining-starss.neocities.org/hoot%20(8).png)
 ![a image of an anime girl](https://external-media.spacehey.net/media/shiUNMEpYSnsPliyBXih7zacm6bbhXJb8wHNngkdgd08=/https://hamood.carrd.co/assets/images/gallery07/d3b61255.png?v34093983873751)
 
-![a gif of a rainbow cat](https://i.pinimg.com/originals/17/6b/7a/176b7a3728241e60f63576f4b60505f1.gif) 
+![a gif of a rainbow cat](https://i.pinimg.com/originals/17/6b/7a/176b7a3728241e60f63576f4b60505f1.gif)   
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://media.discordapp.net/attachments/1295186017266958410/1316243633044717608/El_texto_del_parrafo_4.png?ex=675a56e8&is=67590568&hm=a12d88585b842c9184d15b398276cbcc8bfb5c83ccb4e5155c592ca5a8b1b574&=&format=webp&quality=lossless">
- <source media="(prefers-color-scheme: light)" srcset="https://media.discordapp.net/attachments/1295186017266958410/1316220705037226044/El_texto_del_parrafo_1.png?ex=675a418e&is=6758f00e&hm=6ee246cead0908bdfac31f943238f749f66b7d325a1016bd826cc15ca034e25a&=&format=webp&quality=lossless">
- <img alt="a text saying welccome to my page" src="https://media.discordapp.net/attachments/1295186017266958410/1316220705037226044/El_texto_del_parrafo_1.png?ex=675a418e&is=6758f00e&hm=6ee246cead0908bdfac31f943238f749f66b7d325a1016bd826cc15ca034e25a&=&format=webp&quality=lossless">
-</picture>
+![a text saying welcome to my page](https://media.discordapp.net/attachments/1295186017266958410/1316220705037226044/El_texto_del_parrafo_1.png?ex=675a418e&is=6758f00e&hm=6ee246cead0908bdfac31f943238f749f66b7d325a1016bd826cc15ca034e25a&=&format=webp&quality=lossless)
