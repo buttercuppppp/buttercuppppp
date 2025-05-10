@@ -14,5 +14,6 @@ pfp by toasted.sushi on instagram!
 ![a gif of a rainbow cat](https://i.pinimg.com/originals/17/6b/7a/176b7a3728241e60f63576f4b60505f1.gif)   
 
 <script>NekoType="black"</script>
-<h1 id=nl><script src="https://webneko.net/n20171213.js"></script><a 
+<h1 id=nl><script>var s='script';document.write("<"+s+
+" src=\"https://webneko.net/n20171213.js\"></"+s+">");</script><a 
 href="https://webneko.net">Neko</a></h1>
