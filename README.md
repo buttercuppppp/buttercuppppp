@@ -1,6 +1,3 @@
-<body><script>NekoType="black"</script>
-<h1 id=nl><script src="https://webneko.net/n20171213.js"></script><a 
-href="https://webneko.net">Neko</a></h1></body>
 pfp by toasted.sushi on instagram!                                 
 
 ---
