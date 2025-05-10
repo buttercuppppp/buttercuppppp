@@ -1,6 +1,4 @@
-pfp by toasted.sushi on instagram!                                  <script>NekoType="black"</script>
-<h1 id=nl><script src="https://webneko.net/n20171213.js"></script><a 
-href="https://webneko.net">Neko</a></h1>
+pfp by toasted.sushi on instagram!                                 
 
 ---
 
@@ -15,4 +13,6 @@ href="https://webneko.net">Neko</a></h1>
 
 ![a gif of a rainbow cat](https://i.pinimg.com/originals/17/6b/7a/176b7a3728241e60f63576f4b60505f1.gif)   
 
-
+<script>NekoType="black"</script>
+<h1 id=nl><script src="https://webneko.net/n20171213.js"></script><a 
+href="https://webneko.net">Neko</a></h1>
